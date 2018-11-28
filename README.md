@@ -4,7 +4,6 @@
 	<a href="https://www.hackerrank.com/Thomas-George-T">
         <img height=100 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"> 
     	</a>
-	<br>	
 	<br>
 </p>
 
@@ -57,4 +56,12 @@ The solutions of all the SQL challenges on HackerRank executed on MySql environm
 | 5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Aggregation/Japan%20Population.sql)                                                                                     |
 | 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Aggregation/Population%20Density%20Difference.sql)                                            |
 | 7 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Aggregation/The%20Blunder.sql)  
-| 8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Sql]( )                                                                                              |
+| 8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Sql]( ) |         
+| 9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Sql]() |
+| 10| [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [Sql]() |
+| 11| [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [Sql]() |
+| 12| [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Sql]() |
+| 13| [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Sql]() |
+| 14| [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Sql]() |
+| 15| [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Sql]() |
+| 16| [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Sql]() |
