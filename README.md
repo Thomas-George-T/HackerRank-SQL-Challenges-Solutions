@@ -8,7 +8,7 @@
 </p>
 
 # Description
-The solutions of all the SQL challenges on HackerRank executed on MySql environment
+The solutions of all the SQL challenges on HackerRank executed on MySql environment. Helpful [Resources](Resources.md) & references related to the challenges.
 
 ## Basic Select Challenges
 
@@ -65,3 +65,4 @@ The solutions of all the SQL challenges on HackerRank executed on MySql environm
 | 14| [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2017.sql) |
 | 15| [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2018.sql) |
 | 16| [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2019.sql) |
+| 17| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Sql]()
