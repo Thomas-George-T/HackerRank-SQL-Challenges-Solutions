@@ -66,3 +66,11 @@ The solutions of all the SQL challenges on HackerRank executed on MySql environm
 | 15| [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2018.sql) |
 | 16| [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2019.sql) |
 | 17| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Aggregation/Weather%20Observation%20Station%2020.sql) |
+
+## Basic Join
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [Sql]() |
+| 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Sql]() |
+| 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Sql]() |
