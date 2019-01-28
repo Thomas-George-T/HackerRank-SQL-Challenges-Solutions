@@ -74,4 +74,6 @@ The solutions of all the SQL challenges on HackerRank executed on MySql environm
 | 1 | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Basic%20Join/Asian%20Population.sql) |
 | 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Basic%20Join/African%20Cities.sql) |
 | 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql) |
-| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) | [Sql]() |
+| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) | [Sql](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/Basic%20Join/The%20Report.sql) |
+| 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Sql]() |
+| 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Sql]() |
