@@ -1,10 +1,12 @@
 ![GitHub](https://img.shields.io/github/license/Thomas-George-T/HackerRank-SQL-Challenges-Solutions.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-SQL-Challenges-Solutions.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/HackerRank-SQL-Challenges-Solutions.svg)
 
 <p align="center">  
+	<br>
 	<a href="https://www.hackerrank.com/Thomas_George_T">
         <img height=100 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"> 
-    	</a>
+    </a>
 	<br>
 </p>
 
@@ -41,10 +43,10 @@ The solutions of all the SQL challenges on HackerRank executed on MySql environm
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 |[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Sql](Advanced%20Select/Type%20of%20Triangle.sql) |
-| 2 |[The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [Sql](Advanced%20Select/The%20PADS.sql)                                |
-| 3 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [Sql](Advanced%20Select/Occupations.sql)                         |
+| 2 |[The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [Sql](Advanced%20Select/The%20PADS.sql) |
+| 3 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [Sql](Advanced%20Select/Occupations.sql) |
 | 4 |[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Sql](Advanced%20Select/Binary%20Tree%20Nodes.sql)|
-| 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Sql](Advanced%20Select/New%20Companies.sql)                   |
+| 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Sql](Advanced%20Select/New%20Companies.sql) |
 
 ## Aggregation Challenges
 
