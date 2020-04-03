@@ -83,3 +83,6 @@ The solutions of all the SQL challenges on HackerRank executed on MySql environm
 
 ## References
 * [Resources](Resources.md)
+
+## Featured
+This project was featured in [laptrinhx](https://laptrinhx.com/the-solutions-of-all-sql-hackerrank-challenges-executed-on-mysql-environment-545160427/). Thank you for the listing!
