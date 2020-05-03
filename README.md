@@ -1,19 +1,21 @@
-![GitHub](https://img.shields.io/github/license/Thomas-George-T/HackerRank-SQL-Challenges-Solutions.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-SQL-Challenges-Solutions.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/HackerRank-SQL-Challenges-Solutions.svg)
+![GitHub](https://img.shields.io/github/license/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=plastic)
 
 <p align="center">  
 	<br>
 	<a href="https://www.hackerrank.com/Thomas_George_T">
         <img height=100 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"> 
     </a>
-	<br>
+    <br>
 </p>
 
 ## Description
-The solutions of all the SQL challenges on HackerRank executed on MySql environment. Helpful [Resources](Resources.md) & references related to the challenges.
+The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySql environment compiled with helpful [Resources](Resources.md) & references related to the challenges.
 
-## Basic Select Challenges
+## Domains
+
+### Basic Select Challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
@@ -38,7 +40,7 @@ The solutions of all the SQL challenges on HackerRank executed on MySql environm
 | 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Sql](Basic%20Select/Employee-Names.sql)
 | 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Sql](Basic%20Select/Employee-Salaries.sql)
 
-## Advanced Select Challenges
+### Advanced Select Challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
@@ -48,7 +50,9 @@ The solutions of all the SQL challenges on HackerRank executed on MySql environm
 | 4 |[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Sql](Advanced%20Select/Binary%20Tree%20Nodes.sql)|
 | 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Sql](Advanced%20Select/New%20Companies.sql) |
 
-## Aggregation Challenges
+
+
+### Aggregation Challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
@@ -70,7 +74,8 @@ The solutions of all the SQL challenges on HackerRank executed on MySql environm
 | 16| [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Sql](Aggregation/Weather%20Observation%20Station%2019.sql) |
 | 17| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Sql](Aggregation/Weather%20Observation%20Station%2020.sql) |
 
-## Basic Join
+
+### Basic Join
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
@@ -81,10 +86,11 @@ The solutions of all the SQL challenges on HackerRank executed on MySql environm
 | 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Sql](Basic%20Join/Top%20Competitors.sql) |
 | 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Sql](Basic%20Join/Ollivander's%20Inventory.sql) |
 
-## References
-* [Resources](Resources.md)
 
-## Featured
+## References
+[Resources](Resources.md)
+
+## Features & Mentions
 This project was featured in [laptrinhx](https://laptrinhx.com/the-solutions-of-all-sql-hackerrank-challenges-executed-on-mysql-environment-545160427/). Thank you for the listing!
 
 ## License
