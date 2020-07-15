@@ -1,7 +1,7 @@
-![GitHub](https://img.shields.io/github/license/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Thomas-George-T.HackerRank-SQL-Challenges-Solutions)
+![GitHub](https://img.shields.io/github/license/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat-square)
+[![HitCount](http://hits.dwyl.com/Thomas-George-Thomas/HackerRank-SQL-Challenges-Solutions.svg)](http://hits.dwyl.com/Thomas-George-Thomas/HackerRank-SQL-Challenges-Solutions)
 
 <p align="center">  
 	<br>
