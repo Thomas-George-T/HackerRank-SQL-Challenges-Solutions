@@ -6,3 +6,4 @@ city not like "%i" and
 city not like "%o" and
 city not like "%u";
 
+select distinct city from station where not right(city,1) in('a','e','i','o','u') is faster
