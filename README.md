@@ -88,7 +88,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [SQL](Basic%20Join/Top%20Competitors.sql) |
 | 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](Basic%20Join/Ollivander's%20Inventory.sql) |
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](Basic%20Join/Challenges.sql) |
-
+| 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](/Basic%20Join/Contest%20Leaderboard.sql) |
 
 ## References
 
