@@ -4,6 +4,7 @@ count(distinct lm.lead_manager_code),
 count(distinct sm.senior_manager_code),
 count(distinct m.manager_code), 
 count(distinct e.employee_code)
+count(distinct e.employee_code)
 FROM Company c, Lead_Manager lm, Senior_Manager sm, Manager m, Employee e
 WHERE
 c.company_code=lm.company_code AND
