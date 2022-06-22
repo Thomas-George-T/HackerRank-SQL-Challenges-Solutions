@@ -1,3 +1,4 @@
+-- Author: @bratinkanrar
 SELECT s.Proj_Start_Date, min(e.Proj_End_Date) as Real_Proj_End_Date 
 FROM
 (SELECT Start_Date as Proj_Start_Date FROM Projects WHERE Start_Date NOT IN (SELECT End_Date FROM Projects)) s,
