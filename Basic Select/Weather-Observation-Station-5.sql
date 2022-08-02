@@ -1,3 +1,3 @@
-# Author: Thomas George Thomas
-select city,length(city) from station order By length(city) asc, city asc limit 1;
-select distinct(City),length(city) from station order by length(city) desc, city asc limit 1;
+# Author: Ishan Deshpande
+SELECT DISTINCT(CITY), LENGTH(CITY) FROM STATION ORDER BY LENGTH(CITY) ASC, CITY ASC LIMIT 1;
+SELECT DISTINCT(CITY), LENGTH(CITY) FROM STATION ORDER BY LENGTH(CITY) DESC, CITY ASC LIMIT 1;
