@@ -51,8 +51,8 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 3 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](Advanced%20Select/Occupations.sql) |
 | 4 |[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](Advanced%20Select/Binary%20Tree%20Nodes.sql)|
 | 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](Advanced%20Select/New%20Companies.sql) |
-| 6 |[Draw Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/) | [SQL](https://github.com/StackDSA/HackerRank-SQL-Challenges-Solutions/blob/eff2ed64fb46736277a2582e1c3526fb3be24d34/Advanced%20Select/Draw-The-Triangle-1.sql) |
-| 7 |[Draw Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/) | [SQL](https://github.com/StackDSA/HackerRank-SQL-Challenges-Solutions/blob/eff2ed64fb46736277a2582e1c3526fb3be24d34/Advanced%20Select/Draw-The-Triangle-1.sql) |
+| 6 |[Draw Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/) | [SQL]() |
+| 7 |[Draw Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/) | [SQL]() |
 
 
 
