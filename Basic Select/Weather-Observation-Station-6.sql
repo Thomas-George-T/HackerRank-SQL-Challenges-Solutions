@@ -8,3 +8,6 @@ city like "u%";
 
 # this works faster and better
 select distinct city from station where left(city,1) in('a','e','i','o','u')
+
+# line 9 didn't work for me but the Author's lines did 
+# may have been issue with left(city, 1) part
